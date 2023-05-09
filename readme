@@ -1,0 +1,1 @@
+Se agrego una nueva ruta /mockingproducts en la cual se cargan 100 productos a traves de @faker-js/faker.. Se creo un middleware de errores personalizado.. y se implemento en la mayoria del proyecto.. ej: al faltar algun dato en la creacion del producto.. con un CustomError..
